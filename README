@@ -1,0 +1,1 @@
+This is a Grails port of the Spring Security Contacts test application. To use it, install Grails 3.0.4 and run the app with 'grails run-app'.

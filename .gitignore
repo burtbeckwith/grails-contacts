@@ -1,0 +1,9 @@
+*.iml
+*.iws
+*.log
+*.sublime-workspace
+.DS_Store
+/.gradle
+/.idea
+/.settings
+/build
