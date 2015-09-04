@@ -28,7 +28,7 @@
 						          noSelection="['': '-- please select --']"/>
 					</td>
 					<td width="60%">
-						<font color="red"><c:out value="${status.errorMessage}"/></font>
+						<font color="red"><c:out value="${status?.errorMessage}"/></font>
 					</td>
 
 					</td>
